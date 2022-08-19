@@ -1,0 +1,334 @@
+﻿type,home,nose_length_mm,nose_depth_mm,nose_width_mm,weight_kg,gender
+Vampire,Sesame Street,39.1,18.7,181,37,male
+Vampire,Sesame Street,39.5,17.4,186,38,female
+Vampire,Sesame Street,40.3,18,195,32,female
+Vampire,Sesame Street,36.7,19.3,193,34,female
+Vampire,Sesame Street,39.3,20.6,190,36,male
+Vampire,Sesame Street,38.9,17.8,181,36,female
+Vampire,Sesame Street,39.2,19.6,195,46,male
+Vampire,Sesame Street,41.1,17.6,182,32,female
+Vampire,Sesame Street,38.6,21.2,191,38,male
+Vampire,Sesame Street,34.6,21.1,198,44,male
+Vampire,Sesame Street,36.6,17.8,185,37,female
+Vampire,Sesame Street,38.7,19,195,34,female
+Vampire,Sesame Street,42.5,20.7,197,45,male
+Vampire,Sesame Street,34.4,18.4,184,33,female
+Vampire,Sesame Street,46,21.5,194,42,male
+Vampire,Ireland,37.8,18.3,174,34,female
+Vampire,Ireland,37.7,18.7,180,36,male
+Vampire,Ireland,35.9,19.2,189,38,female
+Vampire,Ireland,38.2,18.1,185,39,male
+Vampire,Ireland,38.8,17.2,180,38,male
+Vampire,Ireland,35.3,18.9,187,38,female
+Vampire,Ireland,40.6,18.6,183,35,male
+Vampire,Ireland,40.5,17.9,187,32,female
+Vampire,Ireland,37.9,18.6,172,31,female
+Vampire,Ireland,40.5,18.9,180,39,male
+Vampire,World War Z,39.5,16.7,178,32,female
+Vampire,World War Z,37.2,18.1,178,39,male
+Vampire,World War Z,39.5,17.8,188,33,female
+Vampire,World War Z,40.9,18.9,184,39,male
+Vampire,World War Z,36.4,17,195,33,female
+Vampire,World War Z,39.2,21.1,196,41,male
+Vampire,World War Z,38.8,20,190,39,male
+Vampire,World War Z,42.2,18.5,180,35,female
+Vampire,World War Z,37.6,19.3,181,33,female
+Vampire,World War Z,39.8,19.1,184,46,male
+Vampire,World War Z,36.5,18,182,31,female
+Vampire,World War Z,40.8,18.4,195,39,male
+Vampire,World War Z,36,18.5,186,31,female
+Vampire,World War Z,44.1,19.7,196,44,male
+Vampire,World War Z,37,16.9,185,30,female
+Vampire,World War Z,39.6,18.8,190,46,male
+Vampire,World War Z,41.1,19,182,34,male
+Vampire,World War Z,36,17.9,190,34,female
+Vampire,World War Z,42.3,21.2,191,41,male
+Vampire,Ireland,39.6,17.7,186,35,female
+Vampire,Ireland,40.1,18.9,188,43,male
+Vampire,Ireland,35,17.9,190,34,female
+Vampire,Ireland,42,19.5,200,40,male
+Vampire,Ireland,34.5,18.1,187,29,female
+Vampire,Ireland,41.4,18.6,191,37,male
+Vampire,Ireland,39,17.5,186,35,female
+Vampire,Ireland,40.6,18.8,193,38,male
+Vampire,Ireland,36.5,16.6,181,28,female
+Vampire,Ireland,37.6,19.1,194,37,male
+Vampire,Ireland,35.7,16.9,185,31,female
+Vampire,Ireland,41.3,21.1,195,44,male
+Vampire,Ireland,37.6,17,185,36,female
+Vampire,Ireland,41.1,18.2,192,40,male
+Vampire,Ireland,36.4,17.1,184,28,female
+Vampire,Ireland,41.6,18,192,39,male
+Vampire,Ireland,35.5,16.2,195,33,female
+Vampire,Ireland,41.1,19.1,188,41,male
+Vampire,Sesame Street,35.9,16.6,190,30,female
+Vampire,Sesame Street,41.8,19.4,198,44,male
+Vampire,Sesame Street,33.5,19,190,36,female
+Vampire,Sesame Street,39.7,18.4,190,39,male
+Vampire,Sesame Street,39.6,17.2,196,35,female
+Vampire,Sesame Street,45.8,18.9,197,41,male
+Vampire,Sesame Street,35.5,17.5,190,37,female
+Vampire,Sesame Street,42.8,18.5,195,42,male
+Vampire,Sesame Street,40.9,16.8,191,37,female
+Vampire,Sesame Street,37.2,19.4,184,39,male
+Vampire,Sesame Street,36.2,16.1,187,35,female
+Vampire,Sesame Street,42.1,19.1,195,40,male
+Vampire,Sesame Street,34.6,17.2,189,32,female
+Vampire,Sesame Street,42.9,17.6,196,47,male
+Vampire,Sesame Street,36.7,18.8,187,38,female
+Vampire,Sesame Street,35.1,19.4,193,42,male
+Vampire,World War Z,37.3,17.8,191,33,female
+Vampire,World War Z,41.3,20.3,194,35,male
+Vampire,World War Z,36.3,19.5,190,38,male
+Vampire,World War Z,36.9,18.6,189,35,female
+Vampire,World War Z,38.3,19.2,189,39,male
+Vampire,World War Z,38.9,18.8,190,36,female
+Vampire,World War Z,35.7,18,202,35,female
+Vampire,World War Z,41.1,18.1,205,43,male
+Vampire,World War Z,34,17.1,185,34,female
+Vampire,World War Z,39.6,18.1,186,44,male
+Vampire,World War Z,36.2,17.3,187,33,female
+Vampire,World War Z,40.8,18.9,208,43,male
+Vampire,World War Z,38.1,18.6,190,37,female
+Vampire,World War Z,40.3,18.5,196,43,male
+Vampire,World War Z,33.1,16.1,178,29,female
+Vampire,World War Z,43.2,18.5,192,41,male
+Vampire,Ireland,35,17.9,192,37,female
+Vampire,Ireland,41,20,203,47,male
+Vampire,Ireland,37.7,16,183,30,female
+Vampire,Ireland,37.8,20,190,42,male
+Vampire,Ireland,37.9,18.6,193,29,female
+Vampire,Ireland,39.7,18.9,184,35,male
+Vampire,Ireland,38.6,17.2,199,37,female
+Vampire,Ireland,38.2,20,190,39,male
+Vampire,Ireland,38.1,17,181,31,female
+Vampire,Ireland,43.2,19,197,47,male
+Vampire,Ireland,38.1,16.5,198,38,female
+Vampire,Ireland,45.6,20.3,191,46,male
+Vampire,Ireland,39.7,17.7,193,32,female
+Vampire,Ireland,42.2,19.5,197,42,male
+Vampire,Ireland,39.6,20.7,191,39,female
+Vampire,Ireland,42.7,18.3,196,40,male
+Vampire,Sesame Street,38.6,17,188,29,female
+Vampire,Sesame Street,37.3,20.5,199,37,male
+Vampire,Sesame Street,35.7,17,189,33,female
+Vampire,Sesame Street,41.1,18.6,189,33,male
+Vampire,Sesame Street,36.2,17.2,187,31,female
+Vampire,Sesame Street,37.7,19.8,198,35,male
+Vampire,Sesame Street,40.2,17,176,34,female
+Vampire,Sesame Street,41.4,18.5,202,38,male
+Vampire,Sesame Street,35.2,15.9,186,30,female
+Vampire,Sesame Street,40.6,19,199,40,male
+Vampire,Sesame Street,38.8,17.6,191,32,female
+Vampire,Sesame Street,41.5,18.3,195,43,male
+Vampire,Sesame Street,39,17.1,191,30,female
+Vampire,Sesame Street,44.1,18,210,40,male
+Vampire,Sesame Street,38.5,17.9,190,33,female
+Vampire,Sesame Street,43.1,19.2,197,35,male
+Vampire,World War Z,36.8,18.5,193,35,female
+Vampire,World War Z,37.5,18.5,199,44,male
+Vampire,World War Z,38.1,17.6,187,34,female
+Vampire,World War Z,41.1,17.5,190,39,male
+Vampire,World War Z,35.6,17.5,191,31,female
+Vampire,World War Z,40.2,20.1,200,39,male
+Vampire,World War Z,37,16.5,185,34,female
+Vampire,World War Z,39.7,17.9,193,42,male
+Vampire,World War Z,40.2,17.1,193,34,female
+Vampire,World War Z,40.6,17.2,187,34,male
+Vampire,World War Z,32.1,15.5,188,30,female
+Vampire,World War Z,40.7,17,190,37,male
+Vampire,World War Z,37.3,16.8,192,30,female
+Vampire,World War Z,39,18.7,185,36,male
+Vampire,World War Z,39.2,18.6,190,42,male
+Vampire,World War Z,36.6,18.4,184,34,female
+Vampire,World War Z,36,17.8,195,34,female
+Vampire,World War Z,37.8,18.1,193,37,male
+Vampire,World War Z,36,17.1,187,37,female
+Vampire,World War Z,41.5,18.5,201,40,male
+Banshee,Ireland,46.1,13.2,211,45,female
+Banshee,Ireland,50,16.3,230,57,male
+Banshee,Ireland,48.7,14.1,210,44,female
+Banshee,Ireland,50,15.2,218,57,male
+Banshee,Ireland,47.6,14.5,215,54,male
+Banshee,Ireland,46.5,13.5,210,45,female
+Banshee,Ireland,45.4,14.6,211,48,female
+Banshee,Ireland,46.7,15.3,219,52,male
+Banshee,Ireland,43.3,13.4,209,44,female
+Banshee,Ireland,46.8,15.4,215,51,male
+Banshee,Ireland,40.9,13.7,214,46,female
+Banshee,Ireland,49,16.1,216,55,male
+Banshee,Ireland,45.5,13.7,214,46,female
+Banshee,Ireland,48.4,14.6,213,58,male
+Banshee,Ireland,45.8,14.6,210,42,female
+Banshee,Ireland,49.3,15.7,217,58,male
+Banshee,Ireland,42,13.5,210,41,female
+Banshee,Ireland,49.2,15.2,221,63,male
+Banshee,Ireland,46.2,14.5,209,48,female
+Banshee,Ireland,48.7,15.1,222,53,male
+Banshee,Ireland,50.2,14.3,218,57,male
+Banshee,Ireland,45.1,14.5,215,50,female
+Banshee,Ireland,46.5,14.5,213,44,female
+Banshee,Ireland,46.3,15.8,215,50,male
+Banshee,Ireland,42.9,13.1,215,50,female
+Banshee,Ireland,46.1,15.1,215,51,male
+Banshee,Ireland,47.8,15,215,56,male
+Banshee,Ireland,48.2,14.3,210,46,female
+Banshee,Ireland,50,15.3,220,55,male
+Banshee,Ireland,47.3,15.3,222,52,male
+Banshee,Ireland,42.8,14.2,209,47,female
+Banshee,Ireland,45.1,14.5,207,50,female
+Banshee,Ireland,59.6,17,230,60,male
+Banshee,Ireland,49.1,14.8,220,51,female
+Banshee,Ireland,48.4,16.3,220,54,male
+Banshee,Ireland,42.6,13.7,213,49,female
+Banshee,Ireland,44.4,17.3,219,52,male
+Banshee,Ireland,44,13.6,208,43,female
+Banshee,Ireland,48.7,15.7,208,53,male
+Banshee,Ireland,42.7,13.7,208,39,female
+Banshee,Ireland,49.6,16,225,57,male
+Banshee,Ireland,45.3,13.7,210,43,female
+Banshee,Ireland,49.6,15,216,47,male
+Banshee,Ireland,50.5,15.9,222,55,male
+Banshee,Ireland,43.6,13.9,217,49,female
+Banshee,Ireland,45.5,13.9,210,42,female
+Banshee,Ireland,50.5,15.9,225,54,male
+Banshee,Ireland,44.9,13.3,213,51,female
+Banshee,Ireland,45.2,15.8,215,53,male
+Banshee,Ireland,46.6,14.2,210,48,female
+Banshee,Ireland,48.5,14.1,220,53,male
+Banshee,Ireland,45.1,14.4,210,44,female
+Banshee,Ireland,50.1,15,225,50,male
+Banshee,Ireland,46.5,14.4,217,49,female
+Banshee,Ireland,45,15.4,220,50,male
+Banshee,Ireland,43.8,13.9,208,43,female
+Banshee,Ireland,45.5,15,220,50,male
+Banshee,Ireland,43.2,14.5,208,44,female
+Banshee,Ireland,50.4,15.3,224,55,male
+Banshee,Ireland,45.3,13.8,208,42,female
+Banshee,Ireland,46.2,14.9,221,53,male
+Banshee,Ireland,45.7,13.9,214,44,female
+Banshee,Ireland,54.3,15.7,231,56,male
+Banshee,Ireland,45.8,14.2,219,47,female
+Banshee,Ireland,49.8,16.8,230,57,male
+Banshee,Ireland,49.5,16.2,229,58,male
+Banshee,Ireland,43.5,14.2,220,47,female
+Banshee,Ireland,50.7,15,223,55,male
+Banshee,Ireland,47.7,15,216,47,female
+Banshee,Ireland,46.4,15.6,221,50,male
+Banshee,Ireland,48.2,15.6,221,51,male
+Banshee,Ireland,46.5,14.8,217,52,female
+Banshee,Ireland,46.4,15,216,47,female
+Banshee,Ireland,48.6,16,230,58,male
+Banshee,Ireland,47.5,14.2,209,46,female
+Banshee,Ireland,51.1,16.3,220,60,male
+Banshee,Ireland,45.2,13.8,215,47,female
+Banshee,Ireland,45.2,16.4,223,59,male
+Banshee,Ireland,49.1,14.5,212,46,female
+Banshee,Ireland,52.5,15.6,221,54,male
+Banshee,Ireland,47.4,14.6,212,47,female
+Banshee,Ireland,50,15.9,224,53,male
+Banshee,Ireland,44.9,13.8,212,47,female
+Banshee,Ireland,50.8,17.3,228,56,male
+Banshee,Ireland,43.4,14.4,218,46,female
+Banshee,Ireland,51.3,14.2,218,53,male
+Banshee,Ireland,47.5,14,212,48,female
+Banshee,Ireland,52.1,17,230,55,male
+Banshee,Ireland,47.5,15,218,49,female
+Banshee,Ireland,52.2,17.1,228,54,male
+Banshee,Ireland,45.5,14.5,212,47,female
+Banshee,Ireland,49.5,16.1,224,56,male
+Banshee,Ireland,44.5,14.7,214,48,female
+Banshee,Ireland,50.8,15.7,226,52,male
+Banshee,Ireland,49.4,15.8,216,49,male
+Banshee,Ireland,46.9,14.6,222,48,female
+Banshee,Ireland,48.4,14.4,203,46,female
+Banshee,Ireland,51.1,16.5,225,52,male
+Banshee,Ireland,48.5,15,219,48,female
+Banshee,Ireland,55.9,17,228,56,male
+Banshee,Ireland,47.2,15.5,215,49,female
+Banshee,Ireland,49.1,15,228,55,male
+Banshee,Ireland,46.8,16.1,215,55,male
+Banshee,Ireland,41.7,14.7,210,47,female
+Banshee,Ireland,53.4,15.8,219,55,male
+Banshee,Ireland,43.3,14,208,45,female
+Banshee,Ireland,48.1,15.1,209,55,male
+Banshee,Ireland,50.5,15.2,216,50,female
+Banshee,Ireland,49.8,15.9,229,59,male
+Banshee,Ireland,43.5,15.2,213,46,female
+Banshee,Ireland,51.5,16.3,230,55,male
+Banshee,Ireland,46.2,14.1,217,43,female
+Banshee,Ireland,55.1,16,230,58,male
+Banshee,Ireland,48.8,16.2,222,60,male
+Banshee,Ireland,47.2,13.7,214,49,female
+Banshee,Ireland,46.8,14.3,215,48,female
+Banshee,Ireland,50.4,15.7,222,57,male
+Banshee,Ireland,45.2,14.8,212,52,female
+Banshee,Ireland,49.9,16.1,213,54,male
+Zombie,World War Z,46.5,17.9,192,35,female
+Zombie,World War Z,50,19.5,196,39,male
+Zombie,World War Z,51.3,19.2,193,36,male
+Zombie,World War Z,45.4,18.7,188,35,female
+Zombie,World War Z,52.7,19.8,197,37,male
+Zombie,World War Z,45.2,17.8,198,39,female
+Zombie,World War Z,46.1,18.2,178,32,female
+Zombie,World War Z,51.3,18.2,197,37,male
+Zombie,World War Z,46,18.9,195,41,female
+Zombie,World War Z,51.3,19.9,198,37,male
+Zombie,World War Z,46.6,17.8,193,38,female
+Zombie,World War Z,51.7,20.3,194,37,male
+Zombie,World War Z,47,17.3,185,37,female
+Zombie,World War Z,52,18.1,201,40,male
+Zombie,World War Z,45.9,17.1,190,35,female
+Zombie,World War Z,50.5,19.6,201,40,male
+Zombie,World War Z,50.3,20,197,33,male
+Zombie,World War Z,58,17.8,181,37,female
+Zombie,World War Z,46.4,18.6,190,34,female
+Zombie,World War Z,49.2,18.2,195,44,male
+Zombie,World War Z,42.4,17.3,181,36,female
+Zombie,World War Z,48.5,17.5,191,34,male
+Zombie,World War Z,43.2,16.6,187,29,female
+Zombie,World War Z,50.6,19.4,193,38,male
+Zombie,World War Z,46.7,17.9,195,33,female
+Zombie,World War Z,52,19,197,41,male
+Zombie,World War Z,50.5,18.4,200,34,female
+Zombie,World War Z,49.5,19,200,38,male
+Zombie,World War Z,46.4,17.8,191,37,female
+Zombie,World War Z,52.8,20,205,45,male
+Zombie,World War Z,40.9,16.6,187,32,female
+Zombie,World War Z,54.2,20.8,201,43,male
+Zombie,World War Z,42.5,16.7,187,33,female
+Zombie,World War Z,51,18.8,203,41,male
+Zombie,World War Z,49.7,18.6,195,36,male
+Zombie,World War Z,47.5,16.8,199,39,female
+Zombie,World War Z,47.6,18.3,195,38,female
+Zombie,World War Z,52,20.7,210,48,male
+Zombie,World War Z,46.9,16.6,192,27,female
+Zombie,World War Z,53.5,19.9,205,45,male
+Zombie,World War Z,49,19.5,210,39,male
+Zombie,World War Z,46.2,17.5,187,36,female
+Zombie,World War Z,50.9,19.1,196,35,male
+Zombie,World War Z,45.5,17,196,35,female
+Zombie,World War Z,50.9,17.9,196,36,female
+Zombie,World War Z,50.8,18.5,201,44,male
+Zombie,World War Z,50.1,17.9,190,34,female
+Zombie,World War Z,49,19.6,212,43,male
+Zombie,World War Z,51.5,18.7,187,32,male
+Zombie,World War Z,49.8,17.3,198,36,female
+Zombie,World War Z,48.1,16.4,199,33,female
+Zombie,World War Z,51.4,19,201,39,male
+Zombie,World War Z,45.7,17.3,193,36,female
+Zombie,World War Z,50.7,19.7,203,40,male
+Zombie,World War Z,42.5,17.3,187,33,female
+Zombie,World War Z,52.2,18.8,197,34,male
+Zombie,World War Z,45.2,16.6,191,32,female
+Zombie,World War Z,49.3,19.9,203,40,male
+Zombie,World War Z,50.2,18.8,202,38,male
+Zombie,World War Z,45.6,19.4,194,35,female
+Zombie,World War Z,51.9,19.5,206,39,male
+Zombie,World War Z,46.8,16.5,189,36,female
+Zombie,World War Z,45.7,17,195,36,female
+Zombie,World War Z,55.8,19.8,207,40,male
+Zombie,World War Z,43.5,18.1,202,34,female
+Zombie,World War Z,49.6,18.2,193,37,male
+Zombie,World War Z,50.8,19,210,41,male
+Zombie,World War Z,50.2,18.7,198,37,female
